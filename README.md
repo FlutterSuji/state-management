@@ -10,17 +10,17 @@
 
 ## setState
 
-[Example](./vanialla)
+[Example](https://github.com/FlutterSuji/state-management/tree/master/vanilla)
 
 ## InheritedWidget
 
-[Example](./inherited_widget)
+[Example](https://github.com/FlutterSuji/state-management/tree/master/inherited_widget)
 
 [![Inherited Widgets Explained - Flutter Widgets 101 Ep. 3](https://img.youtube.com/vi/Zbm3hjPjQMk/0.jpg)](https://www.youtube.com/watch?v=Zbm3hjPjQMk)
 
 ## Provider
 
-[Example](./proivider)
+[Example](https://github.com/FlutterSuji/state-management/tree/master/proivider)
 
 - [Provider package](https://pub.dev/packages/provider)
 
