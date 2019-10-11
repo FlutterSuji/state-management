@@ -23,6 +23,8 @@
 
 ## Provider
 
+[A syntactic sugar of `InheritedWidget`](https://thinkdiff.net/flutter-and-dart/how-to-manage-state-in-flutter-using-provider/)
+
 ### Exposing a value
 
 - Provider
