@@ -14,9 +14,12 @@
 
 ## InheritedWidget
 
-[![Inherited Widgets Explained - Flutter Widgets 101 Ep. 3](https://img.youtube.com/vi/Zbm3hjPjQMk/0.jpg)](https://www.youtube.com/watch?v=Zbm3hjPjQMk)
+![Inherited Widget #01](./doc/inherteid_widget_01.png)
 
-[Example](https://github.com/FlutterSuji/state-management/tree/master/inherited_widget)
+### References
+
+- [Inherited Widgets Explained - Flutter Widgets 101 Ep. 3](https://www.youtube.com/watch?v=Zbm3hjPjQMk)
+- [Example](https://github.com/FlutterSuji/state-management/tree/master/inherited_widget)
 
 ## Provider
 
@@ -33,6 +36,7 @@
 - Consumer
 - Selector
 
-[Example](https://github.com/FlutterSuji/state-management/tree/master/proivider)
+### References
 
-[Provider package](https://pub.dev/packages/provider)
+- [Provider package](https://pub.dev/packages/provider)
+- [Example](https://github.com/FlutterSuji/state-management/tree/master/proivider)
