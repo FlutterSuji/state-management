@@ -1,8 +1,9 @@
 # Flutter State Management
 
-## How to distinguish it
+## Ephemeral vs app state
+### How to distinguish it
 
-![Ephenerak vs App](./doc/ephemeral-vs-app-state.png)
+![Ephemeral vs App](./doc/ephemeral-vs-app-state.png)
 
 ## Lifting State Up
 
